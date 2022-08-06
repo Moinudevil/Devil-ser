@@ -11,7 +11,7 @@
 ## <!-- Typing SVG -->
 <p align="center">
         <img
-        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Devil+Ser+Is+Created+By+Moinu....;Devil-Ser+By+Moinu..............;I+Have+Cloned+The+Project+And+Added.......;Some+More+Things........"
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Devil+Ser+Bot+Created+By+Moinu....;Devil-Ser+By+Moinu..............;I+Have+Cloned+The+Project+And+Added.......;Some+More+Things........"
             alt="Typing SVG"
         />
     </a>
